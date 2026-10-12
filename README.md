@@ -186,19 +186,8 @@ The suite covers PDF parsing and chunking, ChromaDB indexing/search/idempotent r
 | No web results | Check `SERPER_API_KEY`, or index PDFs to research offline. |
 | Scanned PDF returns nothing | The PDF is image-only; OCR is not included. |
 
-## Limitations & roadmap
 
-- Web evidence = search snippets plus short excerpts of the top pages; JavaScript-heavy or paywalled sites yield less.
-- No OCR for scanned PDFs.
-- [ ] Reranking (cross-encoder) on top of BGE retrieval
-- [ ] Automated evaluation harness (faithfulness / citation precision)
-- [ ] Streaming report generation
-- [ ] Export to PDF / DOCX
-
-## License
-
-MIT, see [LICENSE](LICENSE).
 
 ## Author
 
-**<Your Name>**, [LinkedIn](https://linkedin.com/in/<you>) · [GitHub](https://github.com/<you>)
+**<Surya J>**, [LinkedIn](https://www.linkedin.com/in/surya-j-442810279/) · [GitHub]([https://github.com/<you>](https://github.com/surya-aiml20))
