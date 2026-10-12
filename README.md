@@ -176,6 +176,23 @@ pytest -q
 
 The suite covers PDF parsing and chunking, ChromaDB indexing/search/idempotent re-indexing, citation sanitising and renumbering, JSON extraction, mocked Serper parsing, the full research loop (gap → targeted re-research → bounded termination, zero-evidence guardrail, planner fallback, hallucinated-citation removal), the LiteLLM compatibility shim, and a headless run of the chat app (history persistence, follow-up routing, no key inputs in the UI).
 
+
+## Results 
+
+<p align="center">
+  <img src="demo\1.png" width="400" alt="Research Results">
+  <img src="demo\2.png" width="400" alt="Research Results">
+</p>
+
+<p align="center">
+  <img src="demo\3.png" width="400" alt="Research Results">
+  <img src="demo\4.png" width="400" alt="Research Results">
+</p>
+
+<p align="center">
+  <img src="demo\5.png" width="400" alt="Research Results">
+</p>
+
 ## Troubleshooting
 
 | Symptom | Fix |
