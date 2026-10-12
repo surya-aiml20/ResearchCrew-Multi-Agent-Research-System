@@ -180,17 +180,8 @@ The suite covers PDF parsing and chunking, ChromaDB indexing/search/idempotent r
 ## Results 
 
 <p align="center">
-  <img src="demo\1.png" width="400" alt="Research Results">
-  <img src="demo\2.png" width="400" alt="Research Results">
-</p>
-
-<p align="center">
-  <img src="demo\3.png" width="400" alt="Research Results">
-  <img src="demo\4.png" width="400" alt="Research Results">
-</p>
-
-<p align="center">
-  <img src="demo\5.png" width="400" alt="Research Results">
+  <img src="demo/1.png" alt="ResearchCrew Homepage" width="800">
+  <img src="demo/2.png" alt="Research Results" width="800">
 </p>
 
 ## Troubleshooting
