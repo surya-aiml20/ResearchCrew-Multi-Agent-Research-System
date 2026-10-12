@@ -201,4 +201,8 @@ The suite covers PDF parsing and chunking, ChromaDB indexing/search/idempotent r
 
 ## Author
 
-<Surya J> · [LinkedIn](https://www.linkedin.com/in/surya-j-442810279/) · [GitHub](https://github.com/surya-aiml20)
+<h2 align="center">Surya J</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/surya-j-442810279/">LinkedIn</a> ·
+  <a href="https://github.com/surya-aiml20">GitHub</a>
+</p>
